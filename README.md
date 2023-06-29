@@ -1,4 +1,4 @@
-# ExployeeExitSurveys
+# EmployeeExitSurveys
 
 In this project, our objective was to analyze two exit surveys conducted by employment departments in Australia. By combining and aggregating the data from these surveys, we gained valuable insights into the factors influencing employee resignations. The key findings from our analysis are as follows:
 
